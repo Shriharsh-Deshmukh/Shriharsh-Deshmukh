@@ -10,11 +10,14 @@
 
 - 🌱 I’m currently learning **Artificial intelligence & Machine learning**
 
-- 👨‍💻 All of my projects are available at [Here](https://github.com/Shriharsh-Deshmukh)
-
 - 📝 I regularly write articles on [Here](https://anotebok.blogspot.com/)
 
-- 💬 Ask me about **Data Structure,SQL,Mongodb,C++,Python**
+- 💬 Ask me about: <br>
+**C++,
+  Python,
+  Data Structure,
+  SQL,
+  Mongodb**
 
 - 📫 How to reach me **deshmukhshriharsh7@gmail.com**
 
