@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/YNqsJbmb_yMAAAAC/coding.gif)](https://github.com/Shriharsh-Deshmukh)
+[![MasterHead](https://i.postimg.cc/1zNqNrTj/Shriharsh-Github-page.gif)](https://github.com/Shriharsh-Deshmukh)
 
 <h1 align="center">Hi 👋, I'm Shriharsh Deshmukh</h1>
 <h3 align="center">A passionate software developer as well as web developer from India</h3>
@@ -38,7 +38,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shriharsh-deshmukh&show_icons=true&locale=en&layout=compact" alt="shriharsh-deshmukh" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shriharsh-deshmukh&show_icons=true&locale=en" alt="shriharsh-deshmukh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shriharsh-deshmukh&show_icons=true&locale=en" alt="shriharsh-deshmukh" />  </p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shriharsh-deshmukh&" alt="shriharsh-deshmukh" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shriharsh-deshmukh&" alt="shriharsh-deshmukh" /></p>
 
