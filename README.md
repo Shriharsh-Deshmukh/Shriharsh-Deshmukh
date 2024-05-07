@@ -1,4 +1,4 @@
-[![MasterHead](https://i.postimg.cc/1zNqNrTj/Shriharsh-Github-page.gif)](https://github.com/Shriharsh-Deshmukh) plplpl
+[![MasterHead](https://i.postimg.cc/1zNqNrTj/Shriharsh-Github-page.gif)](https://github.com/Shriharsh-Deshmukh)
 
 <h1 align="center">Hi 👋, I'm Shriharsh Deshmukh</h1>
 <h3 align="center">A passionate software developer from India</h3>
