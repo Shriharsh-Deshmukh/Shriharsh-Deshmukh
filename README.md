@@ -36,6 +36,9 @@
 
 
 <h3 align="left">Account Details:</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shriharsh-Deshmukh" alt="Shriharsh-Deshmukh" /></a> </p>
+
 <p align="left">
 </p>
 
