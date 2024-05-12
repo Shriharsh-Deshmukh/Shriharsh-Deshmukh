@@ -44,7 +44,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shriharsh-deshmukh&show_icons=true&locale=en&layout=compact" alt="shriharsh-deshmukh" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shriharsh-deshmukh&show_icons=true&locale=en" alt="shriharsh-deshmukh" />  </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shriharsh-deshmukh&show_icons=true&locale=en" alt="shriharsh-deshmukh" style="width:465px;"/>  </p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shriharsh-deshmukh&" alt="shriharsh-deshmukh" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shriharsh-deshmukh&" alt="shriharsh-deshmukh" width="480"/></p>
 
